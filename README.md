@@ -1,4 +1,4 @@
-BEAMONDO/David-Beamonde/README.md
+BEAMONDO/README.md
 
 HOLA👋
 
