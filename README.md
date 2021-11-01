@@ -2,7 +2,7 @@ BEAMONDO/README.md
 
 HOLA👋
 
-Mi nombre es David Beamonde, nací en Calahorra pero estoy viviendo en Rincón de Soto.
+Mi nombre es David Beamonde, nací en Calahorra pero vivo en Rincón de Soto.
 
 Me gustaría ser programador de videojuegos para crear y modificar archivos de juegos y así, crear mapas personalizados y personajes nuevos con habilidades especiales.
 
