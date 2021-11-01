@@ -11,7 +11,4 @@ Soy un apasionado que disfruta aprendiendo cosas nuevas, especialmente electrón
 - 🌱 Estoy aprendiendo a modificar archivos
 - 📫 Si quieres mis servicios contactame en mi gmail: davidbeamonde2004@gmail.com
 
-<!---
-BEAMONDO/BEAMONDO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
