@@ -4,7 +4,7 @@ Mi nombre es David Beamonde, nací en Calahorra pero estoy viviendo en Rincón d
 
 Me gustaría ser programador de videojuegos para crear y modificar archivos de juegos y así, crear mapas personalizados y personajes nuevos con habilidades especiales.
 
-Soy un tecnólogo apasionado que disfruta aprendiendo cosas nuevas, especialmente electrónica y programación! En mi tiempo libre me encanta hacer deporte y escuchando musica.
+Soy un apasionado que disfruta aprendiendo cosas nuevas, especialmente electrónica y programación. En mi tiempo libre me encanta hacer deporte y escuchar musica.
 
 - 👋 Hola, soy David Beamonde
 - 👀 Estoy interesado en progrmar videojuegos
