@@ -1,6 +1,6 @@
 HOLA👋
 
-Mi nombre es David Beamonde, me gustaría ser programador de videojuegos para crear y modificar archivos de juegos y así, crear mapas personalizados y personajes nuevos con habilidades especiales.
+Mi nombre es David Beamonde, me gustaría ser programador de videojuegos para crear y modificar archivos de juegos y así, crear mapas personalizados y personajes nuevos con habilidades especiales. 
 
 - 👋 Hola, soy David Beamonde
 - 👀 Estoy interesado en progrmar videojuegos
