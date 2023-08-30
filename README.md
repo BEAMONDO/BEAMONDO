@@ -5,11 +5,11 @@ HOLA👋
 Mi nombre es David Beamonde.
 
 Me gustaría ser programador de videojuegos para crear y modificar archivos de juegos y así, crear mapas personalizados y personajes nuevos con habilidades especiales.
-
-Soy un apasionado que disfruta aprendiendo cosas nuevas, especialmente electrónica y programación. En mi tiempo libre me encanta hacer deporte y escuchar musica.
+Estoy aprendiendo a crear plugins para Minecraft.
+Soy un apasionado que disfruta aprendiendo cosas nuevas, especialmente electrónica y programación. En mi tiempo libre me encanta escuchar musica.
 
 - 👋 Hola, soy David Beamonde
-- 👀 Estoy interesado en progrmar videojuegos
+- 👀 Estoy interesado en los videojuegos
 - 🌱 Estoy aprendiendo a usar java
 
 
