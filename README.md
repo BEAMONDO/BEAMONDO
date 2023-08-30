@@ -1,4 +1,3 @@
-BEAMONDO/README.md
 
 HOLA👋
 
